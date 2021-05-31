@@ -1,0 +1,4 @@
+test.go
+*.json
+*.xml
+coverage.txt
